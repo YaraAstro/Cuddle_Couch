@@ -30,21 +30,13 @@ Here are the details about dependencies, fonts, color palletes.
     ```
 
 #### Fonts
-
-<div style="display: flex; gap: 20px;">
-    <div style="flex: 1; background-color: #191b24; display: flex; justify-content: space-around; padding: 10px; color: #9d9fab;">
-        Allura
-    </div>
-    <div style="flex: 1; background-color: #191b24; display: flex; justify-content: space-around; padding: 10px; color: #9d9fab;">
-        GreatVibes
-    </div>
-    <div style="flex: 1; background-color: #191b24; display: flex; justify-content: space-around; padding: 10px; color: #9d9fab;">
-        Inspiration
-    </div>
-    <div style="flex: 1; background-color: #191b24; display: flex; justify-content: space-around; padding: 10px; color: #9d9fab;">
-        Quicksand
-    </div>
-    <div style="flex: 1; background-color: #191b24; display: flex; justify-content: space-around; padding: 10px; color: #9d9fab;">
-        Raleway
-    </div>
-</div>
+ 
+<table>
+    <tr>
+    <td>Allura</td>
+    <td>GreatVibes</td>
+    <td>Inspiration</td>
+    <td>Quicksand</td>
+    <td>Raleway</td>
+    </tr>
+</table>
